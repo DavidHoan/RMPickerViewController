@@ -53,6 +53,16 @@
                ReferencedContainer = "container:RMPickerViewController-Demo.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "CA64FC291B3723F600419A59"
+               BuildableName = "RMPickerViewController-Demo-UITests.xctest"
+               BlueprintName = "RMPickerViewController-Demo-UITests"
+               ReferencedContainer = "container:RMPickerViewController-Demo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
