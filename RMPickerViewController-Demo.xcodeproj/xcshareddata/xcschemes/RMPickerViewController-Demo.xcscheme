@@ -20,6 +20,20 @@
                ReferencedContainer = "container:RMPickerViewController-Demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "CA89682B1B37200400866A60"
+               BuildableName = "RMPickerViewController-Demo-Tests.xctest"
+               BlueprintName = "RMPickerViewController-Demo-Tests"
+               ReferencedContainer = "container:RMPickerViewController-Demo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
@@ -28,6 +42,16 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "CA89682B1B37200400866A60"
+               BuildableName = "RMPickerViewController-Demo-Tests.xctest"
+               BlueprintName = "RMPickerViewController-Demo-Tests"
+               ReferencedContainer = "container:RMPickerViewController-Demo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
